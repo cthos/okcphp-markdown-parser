@@ -1,0 +1,9 @@
+.input-group {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+textarea {
+    height: 500px;
+    width: 100%;
+}
